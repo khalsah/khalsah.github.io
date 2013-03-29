@@ -1,0 +1,49 @@
+@import url(http://fonts.googleapis.com/css?family=Istok+Web:400,700,400italic);
+@import url(icons/fontawesome.css);
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Istok Web", sans-serif;
+  line-height: 1.4;
+}
+
+#wrap {
+  position: relative;
+  width: 30em;
+  margin: 0 auto;
+  padding: 2em;
+}
+
+#about-me {
+  text-align: center;
+}
+
+a {
+  color: #346;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #57b;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+p {
+  margin: 1em 0;
+  text-align: justify;
+}
+
+.photo {
+  border-radius: 6px;
+}
